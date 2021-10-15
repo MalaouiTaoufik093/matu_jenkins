@@ -8,6 +8,6 @@ public class Controller {
 
 	@GetMapping("/")
 	public String message () {
-		return "salut tous le monde !";
+		return "salut mr kamal sdiri c'est votre app  !";
 	}
 }
